@@ -310,7 +310,6 @@ window.addEventListener('keydown', (event) => {
         break
       case 'ArrowDown':
         enemy.attack()
-
         break
     }
   }
